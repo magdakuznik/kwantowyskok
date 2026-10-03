@@ -1,0 +1,8 @@
+{
+  "name": "Kwantowy Skok do Twojego Nowego Życia",
+  "description": "3-tygodniowy warsztat KWANTOWY SKOK: Bądź Szczęśliwa, pomimo okoliczności. Wskocz ze mną do Twojego Nowego Życia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
