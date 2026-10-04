@@ -1,0 +1,20 @@
+# robots.txt dla https://magdakuznik.pl
+User-agent: *
+Allow: /
+Allow: /kwantowy-skok
+Disallow: /*?*
+Disallow: /*&*
+Disallow: /api/
+
+# Blokowanie agresywnych scraperów i botów spamujących
+User-agent: PetalBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# Wskazanie oficjalnej mapy witryny
+Sitemap: https://magdakuznik.pl/sitemap.xml
